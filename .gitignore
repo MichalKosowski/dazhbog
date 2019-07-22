@@ -19,3 +19,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/src/Dazhbog.Api/obj/Debug/netcoreapp2.2
+/src/Dazhbog.Api/obj
+/src/Dazhbog.Api/bin/Debug/netcoreapp2.2
+*.user
+/src/Dazhbog.Application/obj
+/src/Dazhbog.Core/obj
+/.vs/Dazhbog
